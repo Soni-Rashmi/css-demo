@@ -63,3 +63,8 @@ ol, ul {
 .top-category-list-container {
   color: red; 
 }
+
+#category .heading {
+  font-size: 50px;
+  font-style: 'italic';
+}
